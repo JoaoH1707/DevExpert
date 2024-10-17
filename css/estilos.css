@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+body {
+	background-color: black;
+}
+
+.logo {
+	margin-left: 500px;
+	height: 100px;
+}
+
+.devs {
+	height: 320px;
+	margin-left: 530px;
+}
+
+.combo {
+width: 470px;
+position: absolute;
+top: 160px;
+}
+
+.txt{
+	color: white;
+	margin-top: -340px;
+	font-family: "Inter" ;
+	font-size: 20px;
+}
+
+.btn {
+position: absolute;
+font-family: "Inter";
+top: 300px;
+left: 10px;
+    width: 450px;    
+    height: 50px;    
+    background-color: rgb(0, 151, 72);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn_txt {
+	color: white;
+}
+
+.btn2 {
+position: absolute;
+font-family: "Inter";
+top: 380px;
+left: 10px;
+text-align: center;
+border-radius: 10px;
+background-color: black;
+border: 3px solid white;
+width: 450px;
+height: 50px;
+}
+
+.info {
+	color: #C4C4C4;
+	margin-top: 320px;
+	font-family: "Inter";
+}
+
+.tela {
+	margin-top: 130px;
+	margin-left: -25px;
+}
+
+.info2 {
+	font-family: "Inter";
+	margin-top: -340px;
+	margin-left: 620px;
+	font-size: 30px;
+	color: white;
+}
+
+.info3 {
+	font-family: "Inter";
+	margin-top: 50px;
+	margin-left: 620px;
+	font-size: 20px;
+	color: white;
+}
+
+.img {
+	margin-top: 320px;
+	margin-left: 590px;
+}
+
+.txt2 {
+	color: white;
+	font-size: 15px;
+	font-family: "Inter";
+	margin-top: -350px;
+	margin-left: 30px;
+} 
+
+.btn3 {
+	position: absolute;
+	font-family: "Inter";
+	color: white;
+	top: 1290px;
+	left: 50px;
+    width: 450px;    
+    height: 50px;    
+    background-color: rgb(0, 151, 72);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.img2 {
+	position: absolute;
+	top: 1490px;
+	left: 20px;
+}
+
+.txt_c {
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 1570px;
+	left: 620px;
+	font-size: 22px;
+}
+
+.txt_d {
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 1640px;
+	left: 620px;
+	font-size: 15px;
+}
+
+.texto_info {
+	color: white;
+	font-family: "Inter";
+	position: absolute;
+	top: 1920px;
+	left: 420px;
+	font-size: 25px;
+}
+
+.img3 {
+	position: absolute;
+	top: 2000px;
+	left: 40px;
+}
+
+.TV {
+	position: absolute;
+	font-family: "Inter";
+	color: white;
+	top: 2180px;
+	left: 200px;
+	font-size: 18px;
+}
+
+.img4 {
+	position: absolute;
+	top: 2000px;
+	left: 440px;
+}
+
+.comp {
+	position: absolute;
+	font-family: "Inter";
+	color: white;
+	top: 2180px;
+	left: 540px;
+	font-size: 18px;
+}
+
+.img5 {
+	position: absolute;
+	top: 2000px;
+	left: 820px;
+}
+
+.cell {
+	position: absolute;
+	font-family: "Inter";
+	color: white;
+	top: 2180px;
+	left: 900px;
+	font-size: 18px;
+}
+
+.contat {
+	position: absolute;
+	font-family: "Inter";
+	color: white;
+	top: 2300px;
+	left: 550px;
+	font-size: 23px;
+}
+
+
+.botao4{
+	position: absolute;
+	font-family: "Inter";
+	top: 2400px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #3F3E70;
+	border: 2px solid white;
+	width: 450px;
+	height: 50px;
+}
+.nome{
+	color: white;
+	font-family: "Inter";
+}
+.botao5{
+	position: absolute;
+	font-family: "Inter";
+	top: 2500px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #3F3E70;
+	border: 2px solid white;
+	width: 450px;
+	height: 50px;
+}
+.email{
+	color: white;
+	font-family: "Inter";
+}
+.botao6{
+	position: absolute;
+	font-family: "Inter";
+	top: 2600px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #3F3E70;
+	border: 2px solid white;
+	width: 450px;
+	height: 200px;
+}
+.msg{
+	color: white;
+	font-family: "Inter";
+}
+.botao7{
+	position: absolute;
+	font-family: "Inter";
+	top: 2850px;
+	left: 380px;
+	text-align: center;
+	border-radius: 12px;
+	background-color: #00A54E;
+	border: 1px solid white;
+	width: 451px;
+	height: 50px;
+}
